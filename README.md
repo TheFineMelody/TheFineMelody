@@ -4,7 +4,6 @@ Hello chat.
 
 Beginner programmer, only recently started as a hobby. Please do have patience with me.
 
-Pronouns: she/her
 I’m currently learning Python and C/C++, and willing to learn more about programming and coding in general
 
 <!--
